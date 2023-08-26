@@ -1,12 +1,12 @@
 # Blog da franquia Velozes e Furiosos
 
-  ### Tecnologia Utilizadas
+### Tecnologia Utilizadas
 
-    * HTML
-    * CSS
+  * HTML
+  * CSS
 
-  ### IDE
+### IDE
 
-    * Visual Studio Code
+  * Visual Studio Code
 
 Site do tipo Parallax
